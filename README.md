@@ -41,5 +41,5 @@ Enable it as a service and we are done:
     sudo systemctl status thinkfan
 ```
 
-#TODO 
+# TODO 
 Automate the whole thing, stop being lazy and experimental=1 is wrong delete it. 
